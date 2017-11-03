@@ -1,0 +1,64 @@
+Disha Pandhi	 
+Professional Summary
+•	1 year and 5 months of IT experience in design and development of applications using RPA and Java.
+•	Automated Business processes involving Excel operations in UiPath.
+•	Certified in RPA tools UiPath and BluePrism, Certified in Java SE7 (OCJP)
+•	Have good understanding of Waterfall and Agile methodologies. 
+
+
+
+
+Skills Profile
+Technical
+Operating System	Windows XP,7,10
+Environment	Apache Tomcat Server
+Database		Oracle, My Sql
+Internet Tools		HTML, Java Script, JSP, Servlet 
+Languages	C,  C++, Visual Basic, Core Java
+Automation Tools	UiPath, Blue Prism
+Other	Aware About Agile Methodology , Basic knowledge of Dot Net Technology
+
+Functional
+Management and Leadership Skills	Planning, Organizing and Coordinating.
+Training & Development 	Java, Blue Prism, UiPath
+
+
+Professional Experience
+Finance COE (Central)		May 2017 - Aug2017
+RPA Developer	
+FS GBU Support
+
+Finance COE (Center Of Excellence) team prepares and publishes group reporting data of various SBU’s financial budgets on a regular basis (monthly/quarterly). They were doing all operations manually by human interaction. By applying Automation, we helped them to automate their report generation. Have worked individually on automating excel reports.
+
+Role:
+•	Analysis of client’s requirement.
+•	Involved in End to End development of Business Process using RPA UiPath.
+•	Used Excel activities, Word activities, Mail operations activities, etc.
+•	Development, Integration of Processes in UI Path.
+•	Deployment of Processes on the machines of Finance Team.
+
+
+Environment: UiPath Studio
+
+
+Training and Seminars
+3 months training on Java Capgemini Technology Services India Limited
+1 month training on  Blueprism (Under RPA) Automation tool at Capgemini Technology Services India Limited
+16 days training on UIPath (Under RPA) Automation tool Capgemini Technology Services India Limited
+3 months training on Diploma in java technology at Profound Infotech 
+
+
+Certifications
+  Oracle certification exam for Java SE 7 Programmer  clear with 95%. 
+  Blue Prism Developer Accreditation exam with a very creditable 80%.
+  UiPath certified professional RPA developer beginner user. 
+
+
+
+Education
+Gujarat Technological University, Gandhinagar, Gujarat, India, B.E. Information Technology, 2014
+Gujarat Technological University, Gandhinagar, Gujarat, India, Diploma Information Technology, 2011
+
+
+Professional Organizations
+Capgemini Technology Services India Limited
