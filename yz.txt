@@ -1,0 +1,97 @@
+Disha Pandhi	 
+Professional Summary
+•	1 year and 5 months of IT experience in design and development of applications using RPA and Java.
+•	Automated Business processes involving Excel operations in UiPath.
+•	Certified in RPA tools UiPath and Blue Prism Certified in Java SE7 (OCJP)
+•	Have good understanding of Waterfall and Agile methodologies. 
+
+Skills Profile
+Technical
+Operating System		Windows XP,7,10
+Environment		Apache Tomcat Server
+Database		Oracle, My Sql
+Internet Tools		HTML, Java Script, JSP, Servlet
+Languages		C,  C++, Visual Basic, Core Java
+Automation Tools	   UiPath, Blue Prism
+Other		Aware About Agile Methodology , Basic knowledge of Dot Net Technology
+
+Functional
+Management and Leadership Skills	Planning, Organizing and Coordinating.
+Training & Development 	 Java, Blue Prism, UiPath 
+
+Professional Experience
+ 
+•	Finance COE
+	May 2017 to Aug 2017 
+RPA developer
+Finance COE (Center Of Excellence) team prepares and publishes group reporting data of various SBU’s financial budgets on a regular basis (monthly/quarterly). They were doing all operations manually by human interaction. By applying Automation, we helped them to automate their report generation. Have worked individually on automating excel reports.
+Role:
+•	Analysis of client’s requirement.
+•	Involved in End to End development of Business Process using RPA UiPath.
+•	Used Excel activities, Word activities, Mail operations activities, etc.
+•	Development, Integration of Processes in UI Path.
+•	Deployment of Processes on the machines of Finance Team.
+
+Environment: Windows 7/10, UiPath Studio
+
+•	SFC 										Sep 2017 to Oct 2017
+
+RPA developer
+SFC team prepares and publishes group reporting data of various SBU’s financial budgets on a regular basis (monthly/quarterly). They were doing all operations manually by human interaction. By applying Automation, we helped them to automate their report generation. Have worked individually on automating excel reports.
+Role:
+•	Analysis of client’s requirement.
+•	Involved in End to End development of Business Process using RPA UiPath.
+•	Used Excel activities, Word activities, Mail operations activities, etc.
+•	Development, Integration of Processes in UI Path.
+•	Deployment of Processes on the machines of Finance Team.
+
+Environment: Windows 7/10, UiPath Studio
+
+
+Summary of Projects
+Summary File (Finance COE)	May 2017 – June 2017
+RPA Developer
+Finance COE team prepares and publishes group reporting data of Summary File monthly basis. They were doing all operations manually by human interaction. By applying Automation, we helped them to automate their report generation by using UiPath. There were 4 files each having many worksheets.
+Manually Finance Team required 3 hrs to complete it, but after applying automation it reduced to 30 minutes.
+
+Revenue Bridge (Finance COE)	July 2017 – Aug 2017
+RPA Developer
+Finance COE team prepares and publishes group reporting data of Revenue Bridge quarter basis. They were doing all operations manually by human interaction. By applying Automation, we helped them to automate their report generation by using UiPath. There were 5 excel files.
+Manually Finance Team were taking 5 hrs to complete it, but after applying automation it reduced to 45 minutes.
+
+Concur (SFC)	Sep 2017 – Oct 2017
+RPA Developer
+SFC team prepares and publishes group reporting data of Concur weekly basis. They were doing all operations manually by human interaction. By applying Automation, we helped them to automate their report generation by using UiPath. There were 6 excel files each having many worksheets.
+Manually Finance Team were taking 1 hrs to complete it, but after applying automation it reduced to 10 minutes.
+
+
+Training Projects
+Order Management System
+Order Management System was a windows based application which was to be automated. It was as a part of Blue Prism consolidation exercise. Same was also automated in UiPath Training using UiPath. Process included to take order details from a csv file and insert those data at required field of Order Management Sys Application.
+
+Product search from Amazon.in
+A product name was given as input and by interacting to amazon.in using Web Browser. After that it used to search the product save the various details of each available product in an excel file as a part of UiPath Training.
+ 
+Cap Store (Capgemini E-Commerce Portal)
+Cap store is the Ecommerce Portal for Capgemini. This project was as a part of Java Training Program.
+Developed Product Feedback module using Spring MVC.
+
+Training and Seminars
+3 months training on Java Capgemini Technology Services India Limited
+1 month training on  Blue prism (Under RPA) Automation tool at Capgemini Technology Services India Limited
+16 days training on UIPath (Under RPA) Automation tool Capgemini Technology Services India Limited
+3 months training on Diploma in java technology at Profound Infotech 
+
+Certifications
+  Oracle certification exam for Java SE 7 Programmer  clear with 95%. 
+  Blue Prism Developer Accreditation exam with a very creditable 80%.
+  UiPath certified professional RPA developer beginner user. 
+
+Education
+Gujarat Technological University, Gandhinagar, Gujarat, India, B.E. Information Technology, 2014
+Gujarat Technological University, Gandhinagar, Gujarat, India, Diploma Information Technology, 2011
+
+
+Professional Organizations
+Capgemini Technology Services India Limited, April 28,2016.
+
